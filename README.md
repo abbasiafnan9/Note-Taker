@@ -3,15 +3,13 @@
 Description
 Simple app for recording notes to keep your life organized.
 
-Table of Contents
-Installation
-Usage
-License
-Contributing
-Tests
-Questions
-Installation
-Packages needed: express; npm i, npm i uuid.
+## Table of Contents
+- Installation
+- Usage
+- Tests
+-Questions
+
+- Packages needed: express; uuid; npm i.
 
 # Tests
 There are no tests.
